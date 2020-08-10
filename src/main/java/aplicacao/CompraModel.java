@@ -1,7 +1,6 @@
 package aplicacao;
 
 public class CompraModel{
-
     private int valor;
     private int idade;
     private int desconto;
@@ -15,7 +14,6 @@ public class CompraModel{
     }
 
     public CompraModel(){}
-
     /**
      * @return the valor
      */
@@ -50,7 +48,4 @@ public class CompraModel{
     public void setTotal(int total) {
         this.total = total;
     }
-
-    
-
 }

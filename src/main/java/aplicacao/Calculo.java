@@ -1,7 +1,6 @@
 package aplicacao;
 
 public class Calculo {
-  
     private int valorDesconto;
     private int valorTotal;
 
@@ -11,7 +10,6 @@ public class Calculo {
     } else{
         valorDesconto = valor*1/100;
     }
-
         return valorDesconto;
     }
 

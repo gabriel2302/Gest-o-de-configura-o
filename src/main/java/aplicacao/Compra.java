@@ -1,7 +1,6 @@
 package aplicacao;
 import java.util.Scanner;
 
-
 public class Compra {
     CompraModel compra;
     Calculo desc;
